@@ -1,2 +1,3 @@
-# python-rev-shell
-A simple Python reverse shell useful for pentest ops
+# Python Revese Shell
+**A simple Reverse shell writed in Python**
+Use Netcat to handle connection e.g. nc -lvnp 4444
